@@ -1,2 +1,3 @@
-# afiliado-hacker-pro
-MVP do Afiliado Hacker PRO
+# Afiliado Hacker PRO
+
+MVP do painel para afiliados digitais 🚀
