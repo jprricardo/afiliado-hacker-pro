@@ -1,1 +1,27 @@
+<<<<<<< HEAD
 { "name": "afiliado-hacker-pro", "version": "1.0.0", "scripts": { "dev": "next dev", "build": "next build", "start": "next start" } }
+=======
+{
+  "name": "afiliado-hacker-pro",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "14.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.14.1",
+    "@types/react": "19.1.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.2.2"
+  }
+}
+>>>>>>> db1c65e37599ca115aa11f6df5a33709f8d04541
